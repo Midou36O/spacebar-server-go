@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/Midou36O/fosscord-server-go/assets/Fosscord-Icon-Rounded-Subtract.svg" />
+  <img width="100" src="https://raw.githubusercontent.com/Midou36O/fosscord-server-go/main/assets/Fosscord-Icon-Rounded-Subtract.svg" />
 </p>
 <h1 align="center">Fosscord Server (Go)</h1>
 
