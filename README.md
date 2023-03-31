@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/Midou36O/spacebar-server-go/main/assets/Fosscord-Icon-Rounded-Subtract.svg" />
+  <img width="100" src="https://github.com/Midou36O/spacebar-server-go/raw/main/assets/SpaceBarGo.svg" />
 </p>
 <h1 align="center">Spacebar Server (Go)</h1>
 
